@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Olá! Me chamo Gabriel, bem vindo (a) ao meu perfil.<br><br>Atualmente trabalho com infraestrutura de T.I mas estou migrando aos poucos para a área de desenvolvimento tendo o meu foco no back-end. Estou sempre trabalhando em algum projeto pessoal quando possível.<br><br>Estou a procura de uma oportunidade!<br><br>Você pode me encontrar no LinkedIn, ou me enviar um e-mail:</p>
+<p align="left">Olá! Me chamo Gabriel, bem vindo (a) ao meu perfil.<br><br>Atualmente trabalho com desenvolvimento tendo o meu foco no back-end. Estou sempre trabalhando em algum projeto pessoal quando possível.<br><br>Estou a procura de uma oportunidade!<br><br>Você pode me encontrar no LinkedIn, ou me enviar um e-mail:</p>
 
 ###
 
@@ -28,9 +28,9 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  />
+  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
   <img width="12" />
@@ -45,6 +45,10 @@
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angular logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vue" height="40" alt="vuejs logo"  />
   <img width="12" />
